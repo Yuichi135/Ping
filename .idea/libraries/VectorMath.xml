@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VectorMath">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/VectorMath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
